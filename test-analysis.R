@@ -8,3 +8,6 @@ mean_mpg <- mean(mtcars$mpg)
 mean_mpg
 
 #I'm also editing this as a test
+
+#Saving through terminal
+testing <- mean(mtcars$carb)
