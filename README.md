@@ -11,6 +11,6 @@ THis is a second edit I made on Rstudio!
 
 This is an edit I'm going to send to GitHub with the terminal
 
-#I am testing another header. I am writing code and this is so exciting!!
+# I am testing another header. I am writing code and this is so exciting!!
 
 Great moments are born from great opportunity
