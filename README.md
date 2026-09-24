@@ -14,3 +14,7 @@ This is an edit I'm going to send to GitHub with the terminal
 # I am testing another header. I am writing code and this is so exciting!!
 
 Great moments are born from great opportunity
+
+# This is an edit I made on Jamie's branch
+
+Hello everyone! This is Jamie's branch
